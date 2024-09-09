@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\Downloads\\WarzoneForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA77063A-69D8-4F3D-99B0-3C0E79C21F04}|WarzoneForm\\WarzoneForm.csproj|c:\\users\\nick\\downloads\\warzoneform\\warzoneform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA77063A-69D8-4F3D-99B0-3C0E79C21F04}|WarzoneForm\\WarzoneForm.csproj|solutionrelative:warzoneform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA77063A-69D8-4F3D-99B0-3C0E79C21F04}|WarzoneForm\\WarzoneForm.csproj|c:\\users\\nick\\downloads\\warzoneform\\warzoneform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA77063A-69D8-4F3D-99B0-3C0E79C21F04}|WarzoneForm\\WarzoneForm.csproj|solutionrelative:warzoneform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nick\\Downloads\\WarzoneForm\\WarzoneForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WarzoneForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\Downloads\\WarzoneForm\\WarzoneForm\\Form1.cs [Design]",
+              "RelativeToolTip": "WarzoneForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:49:16.618Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\Downloads\\WarzoneForm\\WarzoneForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WarzoneForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\Downloads\\WarzoneForm\\WarzoneForm\\Form1.cs",
+              "RelativeToolTip": "WarzoneForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:49:35.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

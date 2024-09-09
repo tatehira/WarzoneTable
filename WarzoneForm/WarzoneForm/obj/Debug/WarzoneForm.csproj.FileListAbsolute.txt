@@ -1,0 +1,10 @@
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.csproj.AssemblyReference.cache
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.Form1.resources
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.Properties.Resources.resources
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.csproj.GenerateResource.cache
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\bin\Debug\WarzoneForm.exe.config
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\bin\Debug\WarzoneForm.exe
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\bin\Debug\WarzoneForm.pdb
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.exe
+C:\Users\Nick\Downloads\WarzoneForm\WarzoneForm\obj\Debug\WarzoneForm.pdb
